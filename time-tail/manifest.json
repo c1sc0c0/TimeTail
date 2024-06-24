@@ -1,0 +1,10 @@
+{
+  "id": "time-tail",
+  "name": "TimeTail",
+  "version": "0.1.0",
+  "minAppVersion": "0.0.1",
+  "description": "Adds the current date and time whenever the text in the editor is changed. Add '%%ts%%' at the beginning of each line where you want to display it.",
+  "author": "Francis Dierick",
+  "authorUrl": "https://c1sc0.me",
+  "isDesktopOnly": false
+}
